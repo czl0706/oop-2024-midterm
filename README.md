@@ -45,3 +45,7 @@ python3 ./{problem-name}.py
     - [`number-of-provinces.py`](./number-of-provinces.py)
 3. [`2492. Minimum Score of a Path Between Two Cities`](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/)
     - [`minimum-score-of-a-path-between-two-cities.py`](./minimum-score-of-a-path-between-two-cities.py)
+  
+#### Part 5. Class 
+1. https://github.com/ARG-NCTU/oop-python-nycu/blob/main/src/mit_ocw_exercises/lec8_classes.py
+2. https://github.com/ARG-NCTU/oop-python-nycu/blob/main/src/mit_ocw_exercises/lec9_inheritance.py
