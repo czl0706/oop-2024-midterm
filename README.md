@@ -6,6 +6,9 @@ Link and the solution by TA is provided below.
 python3 ./{problem-name}.py
 ```
 
+If you got any questions regarding the solution or midterm, you can either search online, ask ChatGPT(Copilot), or feel free to ask me by e-mail or on E3.  
+[`chengzongli.ee10@nycu.edu.tw`](mailto:chengzongli.ee10@nycu.edu.tw)
+
 #### Part 0. Basics
 1. [`1. Two Sum`](https://leetcode.com/problems/two-sum/description/)
     - [`two-sum.py`](./two-sum.py)
@@ -46,6 +49,6 @@ python3 ./{problem-name}.py
 3. [`2492. Minimum Score of a Path Between Two Cities`](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/)
     - [`minimum-score-of-a-path-between-two-cities.py`](./minimum-score-of-a-path-between-two-cities.py)
   
-#### Part 5. Class 
-1. https://github.com/ARG-NCTU/oop-python-nycu/blob/main/src/mit_ocw_exercises/lec8_classes.py
-2. https://github.com/ARG-NCTU/oop-python-nycu/blob/main/src/mit_ocw_exercises/lec9_inheritance.py
+#### Part 5. Class (FYR)
+1. [`Class example from MIT OCW lec8`](https://github.com/ARG-NCTU/oop-python-nycu/blob/main/src/mit_ocw_exercises/lec8_classes.py)
+2. [`Inheritance example from MIT OCW lec9`](https://github.com/ARG-NCTU/oop-python-nycu/blob/main/src/mit_ocw_exercises/lec9_inheritance.py)
